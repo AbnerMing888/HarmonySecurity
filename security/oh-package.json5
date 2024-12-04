@@ -1,0 +1,19 @@
+{
+  "license": "Apache-2.0",
+  "devDependencies": {},
+  "keywords": [
+    "解密算法",
+    "AES加密",
+    "RSA加密",
+    "MD5加密",
+    "Base64加密"
+  ],
+  "author": "AbnerMing",
+  "name": "@abner/security",
+  "description": "HarmonySecurity是一个加密算法工具库，目前有MD5、Base64、SHA、SM3、AES、RSA算法，提供多种模式加解密",
+  "main": "Index.ets",
+  "repository": "https://github.com/AbnerMing888/HarmonyOsSecurity",
+  "version": "1.0.0",
+  "homepage": "https://juejin.cn/user/1398234520239095",
+  "dependencies": {}
+}

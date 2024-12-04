@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/RsaPage",
+    "pages/AesPage",
+    "pages/Md5Page",
+    "pages/ShaPage",
+    "pages/SM3Page",
+    "pages/Base64Page"
+  ]
+}

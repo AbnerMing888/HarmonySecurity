@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "security",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}
