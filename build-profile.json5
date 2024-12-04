@@ -38,10 +38,6 @@
           ]
         }
       ]
-    },
-    {
-      "name": "security",
-      "srcPath": "./security",
     }
   ]
 }

@@ -12,7 +12,7 @@
   "name": "@abner/security",
   "description": "HarmonySecurity是一个加密算法工具库，目前有MD5、Base64、SHA、SM3、AES、RSA算法，提供多种模式加解密",
   "main": "Index.ets",
-  "repository": "https://github.com/AbnerMing888/HarmonyOsSecurity",
+  "repository": "https://github.com/AbnerMing888/HarmonySecurity",
   "version": "1.0.0",
   "homepage": "https://juejin.cn/user/1398234520239095",
   "dependencies": {}
